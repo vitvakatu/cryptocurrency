@@ -1,0 +1,12 @@
+[package]
+name = "cryptocurrency"
+version = "0.1.0"
+authors = ["Ilya Bogdanov <ilya.bogdanov@xdev.re>"]
+
+[dependencies]
+exonum = "0.8"
+iron = "0.6.0"
+router = "0.6"
+bodyparser = "0.8.0"
+serde_json = "1.0.21"
+env_logger = "0.5.10"
