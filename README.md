@@ -16,3 +16,7 @@ To start one node, run:
 cargo run -- generate-testnet 1 --output-dir .
 cargo run -- run -c validators/0.toml -d db0 --public-api-address 127.0.0.1:3000
 ```
+
+# How to use
+
+Use basic [scripts](https://documenter.getpostman.com/view/4682912/RWEmGbE6)
